@@ -1,0 +1,69 @@
+7/19
+#復習
+t.home()
+t.clear()
+
+t.forward(100)
+t.left(90)
+t.forward(100)
+
+def rect(x,y,a):
+  t.up()
+  t.home()
+  t.forward(x)
+  t.left(90)
+  t.forward(y)
+  t.down()
+  for i in range(4):
+    t.forward(a)
+    t.left(-90)
+    
+
+
+t.clear()
+rect(10,10,100)
+rect(10,-110,100)
+rect(-11010,100)
+rect(-110,-110,100)
+
+import random
+ramdom.randint(1,6)  #１～６の数字の中か一つをランダムで返す。
+
+#168
+import random 
+aDice=Dice()     　　#クラスとともにオブジェクトを使う
+aDice=.shoot()　　　　#オブジェクトを使う
+
+aDice.face_num=1000
+#多面体の面の数を変更する。
+
+#170
+class
+#171
+class キーワードで始まる。
+#172
+self
+#173
+初期化メソッドの実は、 __init__（アンダーバー２つ）
+#178
+#179
+python
+#180
+2**10
+#181
+CUI #キャラクターユーザーインターフェース
+#182
+cd /cit/dir\files.txt
+#183
+
+
+
+
+
+
+
+
+
+
+
+  
